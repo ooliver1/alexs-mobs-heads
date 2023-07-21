@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": [
+      { "text": "Alex's Mobs' Heads", "color": "dark_purple" },
+      { "text": "Player head drops for Alex's mobs", "color": "light_purple" }
+    ]
+  }
+}
